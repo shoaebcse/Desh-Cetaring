@@ -1,0 +1,266 @@
+/* first section css start here */
+*{
+
+  padding: 0px;
+  margin: 0px;
+}
+
+
+.my_content {
+  background-color: #939292;
+}
+.my_content h1{
+  color: #FFCE42;
+  text-align: center;
+  padding: 115px 0px 45px 0px;
+  font-size: 60px;
+  text-transform: uppercase;
+}
+.my_content h2 {
+  color: #fff;
+  text-align: center;
+  font-size: 40px;
+  padding-bottom: 45px;
+  text-transform: uppercase;
+
+}
+.button_content {
+  text-align: center;
+  padding-bottom: 115px ;
+}
+.button_content :hover {
+  background-color: rgb(11, 224, 25);
+  color: yellow;
+}
+/* first section css end here */
+
+/* second section css start here*/
+.service {
+  padding-bottom: 124px;
+}
+
+.heading{
+ padding: 107px 0px 70px 0px;
+ 
+}
+
+.heading h2{
+  text-align: center;
+  font-weight: bold;
+  text-decoration: none;
+  font-family: revert-layer;
+  text-transform: uppercase;
+ 
+ }
+
+ .custom_box{
+  background-color: #939292;
+  border: solid 3px #FFCE42;
+ }
+ .custom_box h2{
+  color: #FFCE42;
+  padding-top: 70px;
+  text-align: center;
+  
+
+ }
+ .my_button :hover {
+  background-color: #FFCE42;
+  color:black;
+ }
+
+ .custom_box_header{
+  background-color: #939292;
+  padding: 27px 30px;
+}
+ 
+ .custom_box {
+  text-align: center;
+  padding-top: 10px;
+ 
+ }
+ .custom_box p{
+  color: #FFf;
+  font-size: 27px;
+  font-family: 'Times New Roman', Times, serif;
+  text-transform: capitalize;
+}
+ 
+ .my_button {
+  padding-top: 80px;
+  padding-bottom: 70px;
+
+ }
+ /* second section css end here*/
+
+ /*thired section css start here*/
+ .middle_content {
+  background-color: #939292;
+ }
+ .special_content h1 {
+  color: #FFCE42;
+  padding-top: 156px;
+  text-align: center;
+  padding-bottom: 100px;
+  font-size: 50px;
+  text-transform: uppercase;
+ }
+ .special_content h3{
+  color: #fff;
+  padding-bottom: 60px;
+  text-align: center;
+ }
+ .special_content p {
+  text-align: center;
+  padding-bottom: 120px;
+  color: #fff;
+  font-size: 29px;
+ }
+ .middle_button {
+  text-align: center;
+  padding-bottom: 160px;
+ }
+  /*thired section css end here*/
+
+  /*features section css strat here*/
+  .features_content {
+   background-color: #F9F8F7;
+   padding-bottom: 120px;
+  }
+  .features_heding {
+    text-align: center;
+    padding-top: 165px;
+  }
+  .features_heding h1 {
+    border-bottom: 2px solid #FFCE42;
+    text-transform: uppercase;
+  }
+  .features_heding h4 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-bottom: 100px;
+  }
+  .first_content {
+    background-color: #fff;
+    padding: 25px;
+  }
+  .first_content h5{
+    text-align: center;
+    padding: 20px 0 10px 0;
+    text-transform: uppercase;
+
+  }
+  .first_content p {
+    text-align: center;
+    font-size: 17px;
+  }
+
+  .second_content {
+    background-color: #fff;
+    padding: 25px;
+  }
+  .second_content h5{
+    text-align: center;
+    padding: 20px 0 10px 0;
+    text-transform: uppercase;
+
+  }
+  .second_content p {
+    text-align: center;
+    font-size: 17px;
+  }
+
+  .thired_content {
+    background-color: #fff;
+    padding: 25px;
+  }
+  .thired_content h5{
+    text-align: center;
+    padding: 20px 0 10px 0;
+    text-transform: uppercase;
+
+  }
+  .thired_content p {
+    text-align: center;
+    font-size: 17px;
+  }
+
+  .quantity_content {
+    background-color: #fff;
+    padding: 25px;
+    margin-top: 20px;
+  }
+  .quantity_content h5{
+    text-align: center;
+    padding: 20px 0 10px 0;
+    text-transform: uppercase;
+
+  }
+  .quantity_content p {
+    text-align: center;
+    font-size: 17px;
+  }
+  
+  .quality_content {
+    background-color: #fff;
+    padding: 25px;
+    margin-top: 20px;
+  }
+  .quality_content h5{
+    text-align: center;
+    padding: 20px 0 10px 0;
+    text-transform: uppercase;
+
+  }
+  .quality_content p {
+    text-align: center;
+    font-size: 17px;
+  }
+
+  
+  .healthy_content {
+    background-color: #fff;
+    padding: 25px;
+    margin-top: 20px;
+  }
+  .healthy_content h5{
+    text-align: center;
+    padding: 20px 0 10px 0;
+    text-transform: uppercase;
+
+  }
+  .healthy_content p {
+    text-align: center;
+    font-size: 17px;
+  }
+   /*features section css end here*/
+
+   /*last section css start here*/
+   .our_client {
+    background-color:#F4CD78;
+    padding-bottom: 107px;
+   }
+   .Text_head {
+    text-align: center;
+    padding-top: 65px;
+ 
+   }
+   .Text_head h2 {
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    border-bottom: 2px solid green;
+    font-size: 40px;
+   }
+   .Text_head p {
+    font-size: 25px;
+    padding: 10px 0px 30px 0px;
+   }
+ 
+   /*logo sectiom css start here*/
+   .logo_style {
+    width: 60px;
+    height: auto;
+    background-color: #635A47;
+    padding-right: 10px !important;
+   }
+   /*logo section end here*/
+   /*last section css start here*/
